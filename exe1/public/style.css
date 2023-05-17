@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+body{
+    background-color: bisque;
+}
+
+
+main{
+    width: 60%;
+    margin:100px auto 0 auto;
+    text-align: center;
+    background-color: white;
+    min-height: 150px
+}
+
+input{
+    padding: 5px;
+    margin: 10px;
+}
+
+button{
+    width: 150px;
+    font-size: larger;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    margin: 10px;
+    border: none;
+    padding: 5px;
+}
